@@ -1,0 +1,59 @@
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/kompastv" group-title="INDONESIA",KompasTV
+http://api.ugserver.cf/tv/kompastv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/metrotv" group-title="INDONESIA",MetroTV
+http://api.ugserver.cf/tv/metrotv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/tvone" group-title="INDONESIA",TVOne
+http://api.ugserver.cf/tv/tvone
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/transtv" group-title="INDONESIA",TransTV
+http://api.ugserver.cf/tv/transtv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/antv" group-title="INDONESIA",ANTV
+http://api.ugserver.cf/tv/antv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/inews" group-title="INDONESIA",INEWS
+http://api.ugserver.cf/tv/inews
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/mnctv" group-title="INDONESIA",MNCTV
+http://api.ugserver.cf/tv/mnctv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/trans7" group-title="INDONESIA",TRANS7
+http://api.ugserver.cf/tv/trans7
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/sctv" group-title="INDONESIA",SCTV
+http://api.ugserver.cf/tv/sctv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/rcti" group-title="INDONESIA",RCTI
+http://api.ugserver.cf/tv/rcti
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/tvri" group-title="INDONESIA",TVRI
+http://api.ugserver.cf/tv/tvri
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/beritasatu" group-title="INDONESIA",BERITA_SATU
+http://api.ugserver.cf/tv/beritasatu
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/globaltv" group-title="INDONESIA",GTV
+http://api.ugserver.cf/tv/globaltv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/nettv" group-title="INDONESIA",NET_TV
+http://api.ugserver.cf/tv/nettv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/indosiar" group-title="INDONESIA",INDOSIAR
+http://api.ugserver.cf/tv/indosiar
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/ochannel" group-title="INDONESIA",OCHANNEL
+http://api.ugserver.cf/tv/ochannel
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/ochannel" group-title="INDONESIA",Reformed21
+http://api.ugserver.cf/tv/reformed21
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/ochannel" group-title="INDONESIA",JTV
+http://api.ugserver.cf/tv/jtv
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/ochannel" group-title="INDONESIA",FOX2News(Percobaan)
+http://api.ugserver.cf/tv/fox2news
+
+#EXTINF:-1 tvg-logo="http://api.ugserver.cf/tv/logo/ochannel" group-title="INDONESIA",HBO(Percobaan)
+http://api.ugserver.cf/tv/hbo
